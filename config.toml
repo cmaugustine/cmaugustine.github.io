@@ -3,5 +3,12 @@ base_url = "https://cmaugustine.github.io/"
 compile_sass = true
 highlight_code = true
 highlight_theme = "charcoal"
+theme = "after-dark"
+
+taxonomies = [
+    {name = "categories", rss = true},
+    {name = "tags", rss = true},
+]
+
 [extra]
 # Put all your custom variables here
