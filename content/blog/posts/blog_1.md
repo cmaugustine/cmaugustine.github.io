@@ -26,4 +26,4 @@ As you may have guessed from my job and current schooling, I'm interested in sof
 	
 ## Expectations
 	
-This blog is for learning, and I've got a lot to do. In writing this I expect to publish some incorrect information, so please, if you see something wrong, lets talk about it. You can shoot me an email at [augu.christopher@gmail.com].  Blog updates will be sporadic, based off how swamped my school schedule is. Thanks for reading!
+This blog is for learning, and I've got a lot to do. In writing this I expect to publish some incorrect information, so please, if you see something wrong, lets talk about it. You can shoot me an email at [augu.christopher@gmail.com](augu.christopher@gmail.com) and my Github page is [@cmaugustine](https://github.com/cmaugustine).  Blog updates will be sporadic, based off how swamped my school schedule is. Thanks for reading!
