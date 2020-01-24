@@ -10,13 +10,14 @@ taxonomies = [
 ]
 
 [extra]
-after_dark_title = cmaugustine
+after_dark_title = "cmaugustine"
 
 after_dark_menu = [
-    {url = "$BASE_URL, name = "home"},
-    {url = "$BASE_URL/blog, name = "blog"},
-    {url = "$BASE_URL/aux, name = "home"},
-    {url = "$BASE_URL/about, name = "home"},
+    {url = "$BASE_URL", name = "home"},
+    {url = "$BASE_URL/blog", name = "blog"},
+    {url = "$BASE_URL/aux", name = "aux"},
+    {url = "$BASE_URL/about", name = "about"},
+]
 
 
 # Put all your custom variables here
