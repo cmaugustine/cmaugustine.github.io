@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cmaugustine.io/sitemap.xml
