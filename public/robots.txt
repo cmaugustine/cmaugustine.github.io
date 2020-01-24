@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cmaugustine.io/sitemap.xml
+Sitemap: https://cmaugustine.github.io/sitemap.xml
