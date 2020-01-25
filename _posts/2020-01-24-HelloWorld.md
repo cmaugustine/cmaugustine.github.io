@@ -1,10 +1,9 @@
-+++
-title = "Hello World"
-description = "Blog post 0, 2020-01-24"
-date = 2020-01-24
-in_search_index = true
-tags = ["blog"]
-+++
+---
+layout: single
+title:  "Hello World!"
+date:   2020-01-24 19:22:55 -0600
+categories: blog 
+---
 
 
 # Hello World
@@ -37,4 +36,4 @@ As you may have guessed from my job and current schooling, I'm interested in sof
 This blog is for learning, and I've got a lot to do. In writing this I expect to publish some incorrect information, so please, if you see something wrong, lets talk about it. You can shoot me an email at [augu.christopher@gmail.com](augu.christopher@gmail.com) and my Github page is [@cmaugustine](https://github.com/cmaugustine).  Blog updates will be sporadic, based off how swamped my school schedule is. Thanks for reading!
 
 Oh and here's that cat pic
-![](../../static/images/blog/cat_on_board.jpg)
+![](/assets/images/cat_on_board.jpg)
