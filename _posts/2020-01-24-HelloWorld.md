@@ -1,19 +1,16 @@
 ---
-layout: single
+layout: posts
 title:  "Hello World!"
 date:   2020-01-24 19:22:55 -0600
 categories: blog 
 ---
 
 
-# Hello World
-
-## Introduction
 I'm Christopher, a *somewhat* professional software engineer and a Electrical and Computer Engineering graduate student at UCLA. 
 
-In the past few months, I've realized just how much there is to learn surrounding computers, thier applications, and how the theory can apply to other fields. The development of this blog is intended to be a learning experience for myself, and you the reader, as communicating knowledge to others requires a deep understanding of what you are trying to convey. 
+In the past few months, I've come to realize just how much more there is to learn surrounding computers, thier applications, and how the theory can apply to other fields. The development of this blog is intended to be a learning experience for myself, and you the reader, as communicating knowledge to others requires a deep understanding of what you are trying to convey. 
 
-## Topics
+## Blog topics
 As you may have guessed from my job and current schooling, I'm interested in software and computers; that will be the primary subject of this blog. Thats a pretty vauge description so here's a more concrete list of what to expect on this page.
 
 * Programming
@@ -33,7 +30,7 @@ As you may have guessed from my job and current schooling, I'm interested in sof
 	
 ## Expectations
 	
-This blog is for learning, and I've got a lot to do. In writing this I expect to publish some incorrect information, so please, if you see something wrong, lets talk about it. You can shoot me an email at [augu.christopher@gmail.com](augu.christopher@gmail.com) and my Github page is [@cmaugustine](https://github.com/cmaugustine).  Blog updates will be sporadic, based off how swamped my school schedule is. Thanks for reading!
+This blog is for learning, and I've got a lot to do. In writing this I expect to publish some incorrect information, so please, if you see something wrong, lets talk about it. You can shoot me an email at [augu.christopher@gmail.com](augu.christopher@gmail.com) and my Github page is [@cmaugustine](https://github.com/cmaugustine).  Blog updates will be sporadic, based off how busy my school schedule is. Thanks for reading!
 
 Oh and here's that cat pic
 ![](/assets/images/cat_on_board.jpg)
